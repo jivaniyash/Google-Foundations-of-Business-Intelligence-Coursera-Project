@@ -76,4 +76,10 @@ Accessibility: List key considerations for creating accessible reports for all u
 Roll-out plan: Briefly describe the expected scope, priorities and timeline. Consider at what points during the rollout will measurements be made to determine whether the feature is performing as expected? Is there a rollback plan and timeline if this feature does not meet its intended goals?
 
 ---
+[Strategy-Document---Cyclistic](https://github.com/jivaniyash/Google-Foundations-of-Business-Intelligence-Coursera-Project/blob/main/Strategy-Document---Cyclistic.pdf) contains Dashboard Functionality and the metrics and dimensions to be used in forming various charts in the dashboard.
 
+The Strategy Document is a collaborative place to align with stakeholders about project deliverables. You will work together to establish information about dashboard functionality and associated metrics and charts.
+
+This is a time to flesh out what metrics will be required, how metrics are calculated, and any limitations or assumptions that exist about the data. Stakeholders think through these details and help the BI professional make final project decisions. Then, the BI professional provides stakeholders with a dashboard mockup to get valuable feedback.
+
+Generally, the BI professional will create the document and request review and sign-off from important stakeholders. Then they can begin working on the project with all of the details they need.
