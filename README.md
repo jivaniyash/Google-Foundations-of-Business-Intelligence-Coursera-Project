@@ -26,4 +26,6 @@ The type of customer (either a one-time customer, or a subscriber)
 
 The dataset includes millions of rides, so the team wants a dashboard that summarizes key insights. Business plans that are driven by customer insights are more successful than plans driven by just internal staff observations. The executive summary must include key data points that are summarized and aggregated in order for the leadership team to get a clear vision of how customers are using Cyclistic.
 
+---
+
 [Project-Requirements-Document---Cyclistic.pdf](https://github.com/jivaniyash/Google-Foundations-of-Business-Intelligence-Coursera-Project/blob/main/Project-Requirements-Document---Cyclistic.pdf) contains project requirements data for the successful completion of the project.
